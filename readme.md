@@ -10,7 +10,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Social links profile]()
+- Live Site URL: [Social links profile](https://pylopes.github.io/social-links.github.io/)
 
 ### Built with
 
